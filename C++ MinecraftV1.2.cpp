@@ -7250,7 +7250,7 @@ inline void init(){
 	return ;
 }
 signed main(){ 
-	init();
+//	init();
 	cout<<"Mincraft Demo V1.2 Beta By xiaogege\n下个版本将要更新"<<nextversion<<'\n';
 	sk[1].skilltake=true;//侦察 
 	itemreset();
