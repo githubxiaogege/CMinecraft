@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
+#include <https://github.com/githubxiaogege/CMinecraftstdio.h>
 #define getch(); _getch();
 using namespace std;
 const string nextversion="起床战争";
@@ -7578,7 +7578,7 @@ signed main(){
 		SetConsoleTitle("你是新手吗？");
 		cout<<"查看新手教程？建议新玩家查看（输入 1 查看）"<<endl;
 		cin>>choose;
-		if(choose==1) system("start http://ac.hfoj.net/blog/85/63a2785dac95767ac35f4240");
+		if(choose==1) system("start https://github.com/githubxiaogege/CMinecraft");
 		
 		if(choose==1){
 			getch();
@@ -7696,7 +7696,7 @@ signed main(){
 				save();
 				break;
 				case 1004://教程 
-				system("start http://ac.hfoj.net/blog/85/63a2785dac95767ac35f4240"); 
+				system("start https://github.com/githubxiaogege/CMinecraft"); 
 				break;  
 			default:
 				break;
