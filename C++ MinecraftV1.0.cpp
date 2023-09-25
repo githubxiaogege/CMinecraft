@@ -7598,7 +7598,7 @@ signed main(){
 		cin>>name;
 	}
 	while(1){
-		SetConsoleTitle("MINECRAFT_Made_by_Chenxuanhan");
+		SetConsoleTitle("MINECRAFT_Made_by_xiaogege");
 		reset();//重置 
 		system("cls");
 		levelup(experience);
